@@ -1,0 +1,51 @@
+<style>
+        body {
+            background-color: white;
+        }
+
+        hr {
+            border-color: grey;
+            border-style: dotted none none none;
+            border-width: 2px;
+            width: 90%;
+        }
+
+        h1 {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: black;
+        }
+
+        h3 {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: black;
+        }
+
+        h2 {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: black;
+        }
+
+        h5 {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: black;
+        }
+
+        p {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 15px;
+            color: black;
+        }
+
+        ul {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        video {
+            position: relative;
+            top: 0%;
+            left: 0%;
+            width: 100%;
+            height: 100%;
+
+        }
+</style>
